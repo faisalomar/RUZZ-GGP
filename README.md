@@ -1,6 +1,8 @@
-![Genesis](imgs/big_text.png)
+![_dcd7e261-ab11-4c84-b683-2b689c7fa96a](https://github.com/user-attachments/assets/dae84b92-3667-49f7-a9e9-8fc747dc4bff)
 
-![Teaser](imgs/teaser.png)
+
+![_1d52b595-665d-4a12-ba9b-fa86ee3bf032](https://github.com/user-attachments/assets/9aeb4faf-7d88-40da-a3a3-3db5ce4706a2)
+
 
 [![PyPI - Version](https://img.shields.io/pypi/v/genesis-world)](https://pypi.org/project/genesis-world/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/genesis-world)](https://pypi.org/project/genesis-world/)
